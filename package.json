@@ -12,8 +12,8 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.74.2",
-    "react-native-image-colors": "^1.5.0",
-    "react-native-linear-gradient": "^2.5.6",
+    "react-native-image-colors": "^2.4.0",
+    "react-native-linear-gradient": "^2.8.3",
     "yarn": "^1.22.17"
   },
   "devDependencies": {

@@ -17,7 +17,7 @@ import {
 } from 'react-native';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
-import ImageCard from './Components/ImageCard';
+import ImageCard from './ImageCard';
 
 const App: () => Node = () => {
   const isDarkMode = useColorScheme() === 'dark';
